@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atanu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [hfh](tr)
-
 - 🌱 I’m currently learning **my sql,c,php and cyber security**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-six-gamma-14.vercel.app/](https://portfolio-six-gamma-14.vercel.app/)
-
-- 📝 I regularly write articles on [1](1)
 
 - 📫 How to reach me **carrom61@gmail.com**
 
